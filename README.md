@@ -41,7 +41,7 @@ Các mô hình được đánh giá bằng nhiều chỉ số khác nhau. Trong 
 | --- | --- |
 | Đoàn Ngọc Tuấn | Triển khai mô hình Linear Regression, VAR. Đóng góp báo cáo phần: Dataset, Tiền xử lý dữ liệu, Thống kê mô tả, Phương pháp nghiên cứu, Triển khai và đánh giá mô hình, Kết luận.|
 | Doãn Công Trí | Triển khai mô hình ARIMA, Linear regression CalendarFourier and DeterministicProcess. Đóng góp báo cáo phần: Tóm tắt, Phương pháp nghiên cứu, Triển khai và đánh giá mô hình|
-| Trần Quốc Hưng | Triển khai mô hình DLinear, VAR. Đóng góp báo cáo phần: Các nghiên cứu liên quan, Phương pháp nghiên cứu, Triển khai và đánh giá mô hình|
+| Trần Quốc Hưng | Triển khai mô hình DLinear, GRU. Đóng góp báo cáo phần: Các nghiên cứu liên quan, Phương pháp nghiên cứu, Triển khai và đánh giá mô hình|
 | Nguyễn Phước Huy | Triển khai mô hình NBEATS, LSTM. Đóng góp báo cáo phần: Các nghiên cứu liên quan, Phương pháp nghiên cứu, Triển khai và đánh giá mô hình, Lý thuyết các chỉ số đánh giá, Kết luận|
 | Trần Lê Tứ | Triển khai mô hình SES, RNN. Đóng góp báo cáo phần: Giới thiệu, Công cụ, Phương pháp nghiên cứu, Triển khai và đánh giá mô hình, Kết luận.|
 
